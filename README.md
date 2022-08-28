@@ -1,5 +1,10 @@
 ### Hi there 👋 I'am Augusto Moura
-
+<a href="https://www.linkedin.com/in/augusto-moura-5072b5181/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/1.guttomoura/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
 <!--
 **gutto-moura/gutto-moura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
