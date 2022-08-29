@@ -1,5 +1,5 @@
-### Hi there 👋 I'am Augusto Moura
-<a href="https://www.linkedin.com/in/augusto-moura-5072b5181/" texy-align="center">
+## Hi there 👋 I'am Augusto Moura
+<a href="https://www.linkedin.com/in/augusto-moura-5072b5181/" text-align="center">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/1.guttomoura/">
