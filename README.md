@@ -1,4 +1,6 @@
-## Hi there 👋 I'am Augusto Moura
+## Hi there 👋 I'am Augusto Moura!
+### Welcome to my profile GitHub.
+
 <a href="https://www.linkedin.com/in/augusto-moura-5072b5181/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
