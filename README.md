@@ -12,13 +12,10 @@
   <a href="https://www.linkedin.com/in/augusto-moura-5072b5181/" >
     <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
-</p>
-<p align='center'>
   <a href="https://www.instagram.com/1.guttomoura/" align='center'>
     <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
 </p>
-</br>
 
 <h2 align='center'>
   languages and tools: 
