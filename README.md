@@ -1,16 +1,25 @@
-## Hi there 👋 I'am Augusto Moura!
-### Welcome to my profile GitHub.
+<h1 align='center'>
+  Hi there 👋 I'am Augusto Moura
+</h1>
 
-<a href="https://www.linkedin.com/in/augusto-moura-5072b5181/">
+<p align='center'>
+  A Front-End developer from Brazil.
+</p>
+<h3 align='center'>
+  Welcome to my profile GitHub.
+</h3>
+<a href="https://www.linkedin.com/in/augusto-moura-5072b5181/" align='center'>
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/1.guttomoura/">
+<a href="https://www.instagram.com/1.guttomoura/" align='center'>
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
 </br>
 
-**languages and tools:**  
+<h2 align='center'>
+  languages and tools: 
+</h2>
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
