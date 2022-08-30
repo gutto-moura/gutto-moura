@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋 I'am Augusto Moura
+  Hi there 👋 I'm Augusto Moura
 </h1>
 
 <p align='center'>
@@ -8,14 +8,14 @@
 <h3 align='center'>
   Welcome to my profile GitHub.
 </h3>
-<p align='center'>
-  <a href="https://www.linkedin.com/in/augusto-moura-5072b5181/" >
-    <img alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
-  <a href="https://www.instagram.com/1.guttomoura/">
-    <img alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-  </a>
-</p>
+
+ <a align='center' href="https://www.linkedin.com/in/augusto-moura-5072b5181/" >
+   <img alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+ </a>
+ <a align='center' href="https://www.instagram.com/1.guttomoura/">
+   <img alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+ </a>
+
 
 <h2 align='center'>
   languages and tools: 
