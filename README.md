@@ -11,7 +11,7 @@
 
 <p align='center'>
   <a width='40' href="https://www.linkedin.com/in/augusto-moura-5072b5181/" >
-    <img width='200' height='200' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
 </p>
 
