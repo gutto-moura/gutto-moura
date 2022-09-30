@@ -8,7 +8,11 @@
 <h3 align='center'>
   Welcome to my profile GitHub.
 </h3>
-
+<div>
+  <a href="https://github.com/gutto-moura">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gutto-moura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutto-moura&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <p align='center'>
   <a width='40' href="https://www.linkedin.com/in/augusto-moura-5072b5181/" >
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
